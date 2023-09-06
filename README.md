@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 <h1>My Skills</h1>
 <hr>
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-</div>
+# 📚 MySkills
+
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1693756219604?alt=media&token=b801b8d3-9dfe-4ca9-9f97-0f09fcaab9da)](https://github.com/msdio/stackticon)
+
 
