@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!&fontSize=90)
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>My Skills</h1>
+<hr>
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+</div>
+
